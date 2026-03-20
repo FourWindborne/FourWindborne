@@ -1,3 +1,1 @@
-## SHORT STORY OF VYATHENE 
-and the trailer for Book 3
-comming soon...  IKK I HAVE TO DO THE BOOK 2 FIRST 
+" Everything is blue his pills his hand his jeans and now im covered in the colors pulled apart at the seams and its blue. "
