@@ -1,7 +1,7 @@
 <p align="center">
   ART BY J-ETHAN
 <p align="center">
-  <img width="900" alt="1000029941" src="https://github.com/user-attachments/assets/780613b9-7818-401c-a9d9-1124c133b24a" />
+  <img width="700" alt="1000029941" src="https://github.com/user-attachments/assets/780613b9-7818-401c-a9d9-1124c133b24a" />
 <p align="center">
     Me and My woman ART BY PI KOU
 <p align="center">
