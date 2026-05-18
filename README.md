@@ -1,4 +1,8 @@
 <p align="center">
+  ART BY VETHER
+<p align="center">
+  <img width="320" height="569" alt="Untitled320_20260516223638" src="https://github.com/user-attachments/assets/3cb001da-1274-4069-92b9-6beedc2ed2f4" />
+<p align="center">
   ART BY J-ETHAN
 <p align="center">
   <img width="500" alt="1000029941" src="https://github.com/user-attachments/assets/780613b9-7818-401c-a9d9-1124c133b24a" />
