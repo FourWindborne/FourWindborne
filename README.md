@@ -1,4 +1,6 @@
 <p align="center">
+  <img width="900" alt="lXRqq4qQ" src="https://github.com/user-attachments/assets/c92e8758-6329-4051-b3d8-74608654976e" />
+<p align="center">
   ART BY VETHER
 <p align="center">
   <img width="320" height="569" alt="Untitled320_20260516223638" src="https://github.com/user-attachments/assets/3cb001da-1274-4069-92b9-6beedc2ed2f4" />
