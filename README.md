@@ -16,7 +16,7 @@ beabadoobee - If You Want To
     <img width="187" alt="FwogD3gB" src="https://github.com/user-attachments/assets/4ea73e58-bb50-4de0-83c5-a116015647a9" />
 <img width="187" alt="WZRLWl-m" src="https://github.com/user-attachments/assets/6d9e3cc3-78b5-4885-a559-1f40f360a0bc" />
 <img width="187" alt="w7DCNg4s" src="https://github.com/user-attachments/assets/392b2396-7070-4376-8f39-f8a5d690f9ce" />
-<img width="190" alt="e03f7_cp" src="https://github.com/user-attachments/assets/f1565de1-3e51-477a-8f52-8e3cade3d923" />
+<img width="187" alt="e03f7_cp" src="https://github.com/user-attachments/assets/f1565de1-3e51-477a-8f52-8e3cade3d923" />
  <p align="left">
 "Father, I'm leaving the kingdom, i want to make my own."
        <p align="right">
