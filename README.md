@@ -17,9 +17,23 @@ beabadoobee - If You Want To
 <img width="187" alt="WZRLWl-m" src="https://github.com/user-attachments/assets/6d9e3cc3-78b5-4885-a559-1f40f360a0bc" />
 <img width="187" alt="w7DCNg4s" src="https://github.com/user-attachments/assets/392b2396-7070-4376-8f39-f8a5d690f9ce" />
 <img width="190" alt="e03f7_cp" src="https://github.com/user-attachments/assets/f1565de1-3e51-477a-8f52-8e3cade3d923" />
-   <p align="center">
-    𝘈𝘙𝘛 𝘉𝘠 𝘔𝘌 𝘋𝘕𝘊
-    <p align="center">
+ <p align="left">
+"Father, I'm leaving the kingdom, i want to make my own."
+       <p align="right">
+"I'll watch you grow your own story."
+ <p align="left">
+"Dad, i killed too many people for power."
+   <p align="right">
+"Let's wash the blood off your hands together."
+ <p align="left">
+"Dad, I lost my powers. I'm weak."
+     <p align="right">
+"Now you can just be my kid."
+ <p align="left">
+"Papa, I'm too afraid to make mistakes."
+  <p align="right">
+"Make as many as you want. I'll always catch you."
+ <p align="left"> 
 <div align="center">
 <table border="0"> 
     <tr/>
