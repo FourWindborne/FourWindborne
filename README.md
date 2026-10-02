@@ -7,33 +7,33 @@
 <p align="center">
 ılı.lıllılı.ıllı.
 <p align="center">
-beabadoobee - If You Want To
+Wolf Parade — I'll Believe in Anything
 <p align="center">
  1:07 ——◦———— -4:05
 <p align="center">
-   <img width="200" alt="lXRqq4qQ" src="https://github.com/user-attachments/assets/c92e8758-6329-4051-b3d8-74608654976e" /> 
-  <p align="center">
-    <img width="187" alt="FwogD3gB" src="https://github.com/user-attachments/assets/4ea73e58-bb50-4de0-83c5-a116015647a9" />
-<img width="187" alt="WZRLWl-m" src="https://github.com/user-attachments/assets/6d9e3cc3-78b5-4885-a559-1f40f360a0bc" />
-<img width="187" alt="w7DCNg4s" src="https://github.com/user-attachments/assets/392b2396-7070-4376-8f39-f8a5d690f9ce" />
-<img width="187" alt="e03f7_cp" src="https://github.com/user-attachments/assets/f1565de1-3e51-477a-8f52-8e3cade3d923" />
  <p align="left">
 "Father, I'm leaving the kingdom, i want to make my own."
        <p align="right">
-"I'll watch you grow your own story."
+"Then go, I'll watch you grow your own story."
  <p align="left">
 "Dad, i killed too many people for power."
    <p align="right">
 "Let's wash the blood off your hands together."
  <p align="left">
-"Dad, I lost my powers. I'm weak."
+"Father, I lost my powers. I'm weak."
      <p align="right">
 "Now you can just be my kid."
  <p align="left">
 "Papa, I'm too afraid to make mistakes."
   <p align="right">
 "Make as many as you want. I'll always catch you."
- <p align="left"> 
+<p align="center"> 
+   <img width="200" alt="lXRqq4qQ" src="https://github.com/user-attachments/assets/c92e8758-6329-4051-b3d8-74608654976e" /> 
+  <p align="center">
+    <img width="180" alt="FwogD3gB" src="https://github.com/user-attachments/assets/4ea73e58-bb50-4de0-83c5-a116015647a9" />
+<img width="180" alt="WZRLWl-m" src="https://github.com/user-attachments/assets/6d9e3cc3-78b5-4885-a559-1f40f360a0bc" />
+<img width="180" alt="w7DCNg4s" src="https://github.com/user-attachments/assets/392b2396-7070-4376-8f39-f8a5d690f9ce" />
+<img width="180" alt="e03f7_cp" src="https://github.com/user-attachments/assets/f1565de1-3e51-477a-8f52-8e3cade3d923" />
 <div align="center">
 <table border="0"> 
     <tr/>
