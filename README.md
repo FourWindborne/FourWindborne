@@ -27,8 +27,6 @@ Wolf Parade — I'll Believe in Anything
 "Papa, I'm too afraid to make mistakes."
   <p align="right">
 "Make as many as you want. I'll always catch you."
-<p align="center"> 
-   <img width="200" alt="lXRqq4qQ" src="https://github.com/user-attachments/assets/c92e8758-6329-4051-b3d8-74608654976e" /> 
   <p align="center">
     <img width="175" alt="FwogD3gB" src="https://github.com/user-attachments/assets/4ea73e58-bb50-4de0-83c5-a116015647a9" />
 <img width="175" alt="WZRLWl-m" src="https://github.com/user-attachments/assets/6d9e3cc3-78b5-4885-a559-1f40f360a0bc" />
@@ -38,8 +36,8 @@ Wolf Parade — I'll Believe in Anything
 <table border="0"> 
     <tr/>
       <td align="center" align="left" width="50%">
-  <img width="250" alt="1000029941" src="https://github.com/user-attachments/assets/780613b9-7818-401c-a9d9-1124c133b24a" />
-        <img width="250" alt="Untitled320_20260516223638" src="https://github.com/user-attachments/assets/a11240f0-a287-4fc3-b484-0b788985de83" />
+  <img width="200" alt="1000029941" src="https://github.com/user-attachments/assets/780613b9-7818-401c-a9d9-1124c133b24a" />
+        <img width="200" alt="Untitled320_20260516223638" src="https://github.com/user-attachments/assets/a11240f0-a287-4fc3-b484-0b788985de83" />
   </td>
       <td align="center" valign="middle" width="20%">
         <img width="200" alt="924e2de8ad99f96cbe5d93399c06ce3f-101768043282351567" src="https://github.com/user-attachments/assets/de05cdc9-b16e-46ff-8538-8c3bed10ea93" />
@@ -53,10 +51,8 @@ Wolf Parade — I'll Believe in Anything
   </table>
 </div>
 <div align="center">
-<p align="center">
- FANARTS
-<p align="center">
-
+ <p align="center"> 
+   <img width="200" alt="lXRqq4qQ" src="https://github.com/user-attachments/assets/c92e8758-6329-4051-b3d8-74608654976e" /> 
 
 
 
