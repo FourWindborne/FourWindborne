@@ -20,7 +20,7 @@ ${\text{\color{#ADBF8E}𝘋𝘢𝘥, 𝘪 𝘬𝘪𝘭𝘭𝘦𝘥 𝘵𝘰𝘰 
    <p align="right">
 ${\text{\color{#78D6FF}𝙇𝙚𝙩'𝙨 𝙬𝙖𝙨𝙝 𝙩𝙝𝙚 𝙗𝙡𝙤𝙤𝙙 𝙤𝙛𝙛 𝙮𝙤𝙪𝙧 𝙝𝙖𝙣𝙙𝙨 𝙩𝙤𝙜𝙚𝙩𝙝𝙚𝙧.}}$
  <p align="left">
-${\text{\color{#FFEBC6}𝘍𝘢𝘵𝘩𝘦𝘳, 𝘐 𝘭𝘰𝘴𝘵 𝘮𝘺 𝘱𝘰𝘸𝘦𝘳𝘴. 𝘐'𝘮 𝘸𝘦𝘢𝘬.}}$
+${\text{\color{#FFE7AB}𝘍𝘢𝘵𝘩𝘦𝘳, 𝘐 𝘭𝘰𝘴𝘵 𝘮𝘺 𝘱𝘰𝘸𝘦𝘳𝘴. 𝘐'𝘮 𝘸𝘦𝘢𝘬.}}$
      <p align="right">
 ${\text{\color{#78D6FF}𝙉𝙤𝙬 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙟𝙪𝙨𝙩 𝙗𝙚 𝙢𝙮 𝙠𝙞𝙙.}}$
  <p align="left">
