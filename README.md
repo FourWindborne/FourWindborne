@@ -26,7 +26,7 @@ ${\text{\color{#78D6FF}𝙉𝙤𝙬 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙟𝙪𝙨𝙩 �
  <p align="left">
 ${\text{\color{#FFDBE7}𝘗𝘢𝘱𝘢, 𝘐'𝘮 𝘵𝘰𝘰 𝘢𝘧𝘳𝘢𝘪𝘥 𝘵𝘰 𝘮𝘢𝘬𝘦 𝘮𝘪𝘴𝘵𝘢𝘬𝘦𝘴.}}$
   <p align="right">
-${\text{\color{#78D6FF}𝙈𝙖𝙠𝙚 𝙖𝙨 𝙢𝙖𝙣𝙮 𝙖𝙨 𝙮𝙤𝙪 𝙬𝙖𝙣𝙩. 𝙄'𝙡𝙡 𝙖𝙡𝙬𝙖𝙮𝙨 𝙘𝙖𝙩𝙘𝙝 𝙮𝙤𝙪.m}}$
+${\text{\color{#78D6FF}𝙈𝙖𝙠𝙚 𝙖𝙨 𝙢𝙖𝙣𝙮 𝙖𝙨 𝙮𝙤𝙪 𝙬𝙖𝙣𝙩. 𝙄'𝙡𝙡 𝙖𝙡𝙬𝙖𝙮𝙨 𝙘𝙖𝙩𝙘𝙝 𝙮𝙤𝙪.}}$
   <p align="center">
     <img width="175" alt="FwogD3gB" src="https://github.com/user-attachments/assets/4ea73e58-bb50-4de0-83c5-a116015647a9" />
 <img width="175" alt="WZRLWl-m" src="https://github.com/user-attachments/assets/6d9e3cc3-78b5-4885-a559-1f40f360a0bc" />
