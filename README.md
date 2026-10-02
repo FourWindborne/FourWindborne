@@ -30,10 +30,10 @@ Wolf Parade — I'll Believe in Anything
 <p align="center"> 
    <img width="200" alt="lXRqq4qQ" src="https://github.com/user-attachments/assets/c92e8758-6329-4051-b3d8-74608654976e" /> 
   <p align="center">
-    <img width="180" alt="FwogD3gB" src="https://github.com/user-attachments/assets/4ea73e58-bb50-4de0-83c5-a116015647a9" />
-<img width="180" alt="WZRLWl-m" src="https://github.com/user-attachments/assets/6d9e3cc3-78b5-4885-a559-1f40f360a0bc" />
-<img width="180" alt="w7DCNg4s" src="https://github.com/user-attachments/assets/392b2396-7070-4376-8f39-f8a5d690f9ce" />
-<img width="180" alt="e03f7_cp" src="https://github.com/user-attachments/assets/f1565de1-3e51-477a-8f52-8e3cade3d923" />
+    <img width="175" alt="FwogD3gB" src="https://github.com/user-attachments/assets/4ea73e58-bb50-4de0-83c5-a116015647a9" />
+<img width="175" alt="WZRLWl-m" src="https://github.com/user-attachments/assets/6d9e3cc3-78b5-4885-a559-1f40f360a0bc" />
+<img width="175" alt="w7DCNg4s" src="https://github.com/user-attachments/assets/392b2396-7070-4376-8f39-f8a5d690f9ce" />
+<img width="175" alt="e03f7_cp" src="https://github.com/user-attachments/assets/f1565de1-3e51-477a-8f52-8e3cade3d923" />
 <div align="center">
 <table border="0"> 
     <tr/>
