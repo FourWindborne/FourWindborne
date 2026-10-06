@@ -10,24 +10,7 @@
 Wolf Parade — I'll Believe in Anything
 <p align="center">
  1:07 ——◦———— -4:05
-<p align="center">
- <p align="left">
-${\text{\color{#FFDFE4} 𝘍𝘢𝘵𝘩𝘦𝘳, 𝘐'𝘮 𝘭𝘦𝘢𝘷𝘪𝘯𝘨 𝘵𝘩𝘦 𝘬𝘪𝘯𝘨𝘥𝘰𝘮, 𝘪 𝘸𝘢𝘯𝘵 𝘵𝘰 𝘮𝘢𝘬𝘦 𝘮𝘺 𝘰𝘸𝘯. }}$
-       <p align="right">
-${\text{\color{#78D6FF} 𝙏𝙝𝙚𝙣 𝙜𝙤, 𝙄'𝙡𝙡 𝙬𝙖𝙩𝙘𝙝 𝙮𝙤𝙪 𝙜𝙧𝙤𝙬 𝙮𝙤𝙪𝙧 𝙤𝙬𝙣 𝙨𝙩𝙤𝙧𝙮  }}$
- <p align="left">
-${\text{\color{#ADBF8E}𝘋𝘢𝘥, 𝘪 𝘬𝘪𝘭𝘭𝘦𝘥 𝘵𝘰𝘰 𝘮𝘢𝘯𝘺 𝘱𝘦𝘰𝘱𝘭𝘦 𝘧𝘰𝘳 𝘱𝘰𝘸𝘦𝘳}}$
-   <p align="right">
-${\text{\color{#78D6FF}𝙇𝙚𝙩'𝙨 𝙬𝙖𝙨𝙝 𝙩𝙝𝙚 𝙗𝙡𝙤𝙤𝙙 𝙤𝙛𝙛 𝙮𝙤𝙪𝙧 𝙝𝙖𝙣𝙙𝙨 𝙩𝙤𝙜𝙚𝙩𝙝𝙚𝙧.}}$
- <p align="left">
-${\text{\color{#FFE7AB}𝘍𝘢𝘵𝘩𝘦𝘳, 𝘐 𝘭𝘰𝘴𝘵 𝘮𝘺 𝘱𝘰𝘸𝘦𝘳𝘴. 𝘐'𝘮 𝘸𝘦𝘢𝘬.}}$
-     <p align="right">
-${\text{\color{#78D6FF}𝙉𝙤𝙬 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙟𝙪𝙨𝙩 𝙗𝙚 𝙢𝙮 𝙠𝙞𝙙.}}$
- <p align="left">
-${\text{\color{#FFDBE7}𝘗𝘢𝘱𝘢, 𝘐'𝘮 𝘵𝘰𝘰 𝘢𝘧𝘳𝘢𝘪𝘥 𝘵𝘰 𝘮𝘢𝘬𝘦 𝘮𝘪𝘴𝘵𝘢𝘬𝘦𝘴.}}$
-  <p align="right">
-${\text{\color{#78D6FF}𝙈𝙖𝙠𝙚 𝙖𝙨 𝙢𝙖𝙣𝙮 𝙖𝙨 𝙮𝙤𝙪 𝙬𝙖𝙣𝙩. 𝙄'𝙡𝙡 𝙖𝙡𝙬𝙖𝙮𝙨 𝙘𝙖𝙩𝙘𝙝 𝙮𝙤𝙪.}}$
-  <p align="center">
+ <p align="center">
     <img width="175" alt="FwogD3gB" src="https://github.com/user-attachments/assets/4ea73e58-bb50-4de0-83c5-a116015647a9" />
 <img width="175" alt="WZRLWl-m" src="https://github.com/user-attachments/assets/6d9e3cc3-78b5-4885-a559-1f40f360a0bc" />
 <img width="175" alt="w7DCNg4s" src="https://github.com/user-attachments/assets/392b2396-7070-4376-8f39-f8a5d690f9ce" />
