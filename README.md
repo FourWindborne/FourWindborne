@@ -4,12 +4,6 @@
 <img width="97" alt="pony-town-🍫🍀 !! Seven CHECK GH PLLSSS-sit-blinking-4x" src="https://github.com/user-attachments/assets/7f03cd64-2109-4752-b263-6dc7f7496f3a" />
 <img width="116" alt="1000006195" src="https://github.com/user-attachments/assets/6903a9fe-21b9-4f6e-9847-452ef4c1139b" />
 <img width="85" alt="pony-town-Venthia&#39;s Baby , Comf 🎨🖌-sit-blinking-4x" src="https://github.com/user-attachments/assets/e8810f54-645d-4082-b609-269e2e7f881e" />
-<p align="center">
-ılı.lıllılı.ıllı.
-<p align="center">
-Wolf Parade — I'll Believe in Anything
-<p align="center">
- 1:07 ——◦———— -4:05
  <p align="center">
     <img width="175" alt="FwogD3gB" src="https://github.com/user-attachments/assets/4ea73e58-bb50-4de0-83c5-a116015647a9" />
 <img width="175" alt="WZRLWl-m" src="https://github.com/user-attachments/assets/6d9e3cc3-78b5-4885-a559-1f40f360a0bc" />
