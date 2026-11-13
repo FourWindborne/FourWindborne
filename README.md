@@ -1,9 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=FourWindborne&color=8ec084&style=for-the-badge&label=☘︎)
 <p align="center">
-<img width="200" alt="pony-town-Kenzo_happy_belated_bday-sit-blinking-6x" src="https://github.com/user-attachments/assets/54a14aab-2c97-44b0-81b7-38a2b62d6c42" />
-<img width="200" alt="pony-town-Ssix_seven-sit-blinking-6x" src="https://github.com/user-attachments/assets/6996a404-7c03-4a20-9469-2271e22bc1cc" />
-<img width="200" alt="pony-town-Arven_bday_4_Chii-sit-blinking-6x" src="https://github.com/user-attachments/assets/e1ee8621-ba75-4f9e-9acf-1cf142f1abfa" />
-<img width="200" alt="pony-town-Cutie_Vyet-sit-blinking-6x" src="https://github.com/user-attachments/assets/f57daac4-4934-445c-b2bf-a9aa00520322" />
+ All made by Mikyi
+<p align="center">
+<img width="100" alt="pony-town-Kenzo_happy_belated_bday-sit-blinking-6x" src="https://github.com/user-attachments/assets/54a14aab-2c97-44b0-81b7-38a2b62d6c42" />
+<img width="100" alt="pony-town-Ssix_seven-sit-blinking-6x" src="https://github.com/user-attachments/assets/6996a404-7c03-4a20-9469-2271e22bc1cc" />
+<img width="100" alt="pony-town-Arven_bday_4_Chii-sit-blinking-6x" src="https://github.com/user-attachments/assets/e1ee8621-ba75-4f9e-9acf-1cf142f1abfa" />
+<img width="100" alt="pony-town-Cutie_Vyet-sit-blinking-6x" src="https://github.com/user-attachments/assets/f57daac4-4934-445c-b2bf-a9aa00520322" />
  <p align="center">
     <img width="175" alt="FwogD3gB" src="https://github.com/user-attachments/assets/4ea73e58-bb50-4de0-83c5-a116015647a9" />
 <img width="175" alt="WZRLWl-m" src="https://github.com/user-attachments/assets/6d9e3cc3-78b5-4885-a559-1f40f360a0bc" />
